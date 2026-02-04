@@ -1,0 +1,16 @@
+{
+  "name": "morpho-monitor",
+  "version": "1.2.0",
+  "description": "Monitor Morpho Blue vault liquidity and alert when below threshold",
+  "main": "index.js",
+  "bin": {
+    "morpho-monitor": "./cli.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "axios": "^1.7.0"
+  },
+  "keywords": ["morpho", "defi", "liquidity", "monitoring"],
+  "author": "YiBot",
+  "license": "MIT"
+}

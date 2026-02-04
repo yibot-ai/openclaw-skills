@@ -1,0 +1,18 @@
+{
+  "rpcUrl": "https://eth.llamarpc.com",
+  "vaults": [
+    {
+      "address": "0x...",
+      "threshold": 1000000,
+      "chain": "ethereum",
+      "name": "Example Morpho Vault",
+      "symbol": "mToken",
+      "assetSymbol": "USDC",
+      "addedAt": 1706918400000
+    }
+  ],
+  "alertChannels": {
+    "telegram": null,
+    "console": true
+  }
+}

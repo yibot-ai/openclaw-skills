@@ -1,0 +1,13 @@
+{
+  "ethereum": [
+    "0x...",
+    "0x..."
+  ],
+  "base": [
+    "0x...",
+    "0x..."
+  ],
+  "polygon": [],
+  "arbitrum": [],
+  "_note": "Add known Morpho vault addresses here, or leave empty to use Morpho API/Subgraph"
+}
