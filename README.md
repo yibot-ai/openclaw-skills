@@ -19,7 +19,7 @@ Monitor Morpho Blue vault liquidity with automatic alerts.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/openclaw-skills.git
+git clone https://github.com/yibot-ai/openclaw-skills.git
 
 # Install a specific skill
 cd openclaw-skills/morpho-monitor
